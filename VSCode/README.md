@@ -1,4 +1,4 @@
-# Python Cheat Sheet
+# VSCode Cheat Sheet
 
 ## TOC  
 
